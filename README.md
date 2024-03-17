@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![Screenshot 2024-03-17 at 5 34 43 PM](https://github.com/G-Code6/Remote-desktop/assets/163748328/784cca91-2068-425f-9757-3ec562747d0c)
+
 </p>
 
 <h1>Remote desktop setup with Microsoft Azure</h1>
