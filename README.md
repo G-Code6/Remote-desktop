@@ -18,12 +18,12 @@
 
 <h3>3. Create a Virtual Machine (VM):</h3>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- In the Azure Portal, navigate to the "Virtual machines" section.
+- Click on "Add" to create a new virtual machine.
+- Follow the prompts to configure your VM, including choosing the operating system (like Windows Server or Windows 10).
+- Set up the size and resources for your VM.
+- Configure networking settings, such as assigning a public IP address (if you want to access your VM over the internet).
+- Complete the setup process and wait for Azure to deploy your VM.
 <h2>Installation Steps</h2>
 
 <p>
