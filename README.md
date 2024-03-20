@@ -16,7 +16,7 @@
 
 - Log in to the Azure Portal using your credentials.
 
-<h2>List of Prerequisites</h2>
+<h3>3. Create a Virtual Machine (VM):</h3>
 
 - Item 1
 - Item 2
