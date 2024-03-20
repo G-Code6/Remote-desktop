@@ -11,8 +11,7 @@
 <h2>1. Create an Azure Account:</h2>
 
 - If you don't already have one, sign up for Microsoft Azure and create an account.
-- Remote Desktop
-- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
