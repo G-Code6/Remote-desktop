@@ -24,10 +24,10 @@
 - Set up the size and resources for your VM.
 - Configure networking settings, such as assigning a public IP address (if you want to access your VM over the internet).
 - Complete the setup process and wait for Azure to deploy your VM.
-<h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2024-03-20 at 7 38 52 PM](https://github.com/G-Code6/Remote-desktop/assets/163748328/b5d0d31c-d44a-4ff7-b6ff-cc531ae8de55)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
