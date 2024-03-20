@@ -7,13 +7,12 @@
 
 
 
-
-<h2>1. Create an Azure Account:</h2> 
+<h3>1. Create an Azure Account:</h3> 
 
 - If you don't already have one, sign up for Microsoft Azure and create an account.
 
 
-<h2>2. Access Azure Portal: </h2>
+<h3>2. Access Azure Portal: </h3>
 
 - Log in to the Azure Portal using your credentials.
 
