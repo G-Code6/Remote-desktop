@@ -3,15 +3,14 @@
 </p>
 
 <h1>Remote desktop setup with Microsoft Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>1. Create an Azure Account:</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- If you don't already have one, sign up for Microsoft Azure and create an account.
 - Remote Desktop
 - Internet Information Services (IIS)
 
