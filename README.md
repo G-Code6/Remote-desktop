@@ -8,14 +8,14 @@
 
 
 
-<h2>1. Create an Azure Account:</h2>
+<h2>1. Create an Azure Account:</h2> 
 
 - If you don't already have one, sign up for Microsoft Azure and create an account.
 
 
-<h2>Operating Systems Used </h2>
+<h2>2. Access Azure Portal: </h2>
 
-- Windows 10</b> (21H2)
+- Log in to the Azure Portal using your credentials.
 
 <h2>List of Prerequisites</h2>
 
