@@ -37,10 +37,9 @@
 - Find the "Overview" section and note down the public IP address of your virtual machine.
 
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2024-03-20 at 9 04 04 PM](https://github.com/G-Code6/Remote-desktop/assets/163748328/35f5d887-b91b-4940-a4f0-7581c96cdbb7)
+
 </p>
-<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
