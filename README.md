@@ -67,10 +67,15 @@
 </p>
 
 - Open Microsoft Remote Desktop.
-- Click on "Add Desktop" (+ icon) in the top-left corner.
+- Click on "Add PC"
 - Enter the public IP address of your Azure VM in the "PC Name" field.
-- Specify a friendly name for the connection (optional).
 - Click "Add".
+
+![Screenshot 2024-03-20 at 9 50 09 PM](https://github.com/G-Code6/Remote-desktop/assets/163748328/9e82c7ab-37b4-454d-b1ec-440ca2ff42e2)
+
+- Enter the username and password you configured when creating the VM.
+- Click "Continue" to establish the remote desktop session.
+
 
 
 
