@@ -33,14 +33,20 @@
 
 </p>
 
-- Navigate to your Virtual Machine resource.
-- Find the "Overview" section and note down the public IP address of your virtual machine.
+<h3>4. Navigate to your Virtual Machine resource:</h3>. 
 
+- Find the "Overview" section and note down the public IP address of your virtual machine.
 
 ![Screenshot 2024-03-20 at 9 04 04 PM](https://github.com/G-Code6/Remote-desktop/assets/163748328/35f5d887-b91b-4940-a4f0-7581c96cdbb7)
 
 </p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- For Windows
+- Open Remote Desktop Connection.
+- Enter the public IP address of your Azure VM.
+- Click "Connect".
+- Enter the username and password you configured when creating the VM.
+- Click "OK" or "Connect" to establish the remote desktop session. 
 </p>
 <br />
 
