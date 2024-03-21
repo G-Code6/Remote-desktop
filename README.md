@@ -41,7 +41,7 @@
 
 </p>
 
-<h3>For Windows</h3>
+<h3>For Windows:</h3>
 
 - Open Remote Desktop Connection.
 - Enter the public IP address of your Azure VM.
@@ -50,11 +50,9 @@
 - Click "OK" or "Connect" to establish the remote desktop session. 
 
 
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![win-in-ip-address](https://github.com/G-Code6/Remote-desktop/assets/163748328/27cafef9-f733-4599-be86-838d74bbdcfa)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
