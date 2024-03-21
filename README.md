@@ -2,7 +2,8 @@
 
 </p>
 
-<h1>Remote desktop setup with Microsoft Azure</h1>
+<h1> Creating a virtual machine (VM) with Microsoft Azure
+& Remote Desktop with Windows / MacOS</h1>
 
 
 
