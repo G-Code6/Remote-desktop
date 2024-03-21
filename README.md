@@ -41,12 +41,15 @@
 
 </p>
 
-- For Windows
+<h3>For Windows</h3>
+
 - Open Remote Desktop Connection.
 - Enter the public IP address of your Azure VM.
 - Click "Connect".
 - Enter the username and password you configured when creating the VM.
 - Click "OK" or "Connect" to establish the remote desktop session. 
+
+
 </p>
 <br />
 
