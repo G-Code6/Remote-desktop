@@ -60,6 +60,9 @@
 - Download Microsoft Remote Desktop:
 - Go to the Mac App Store.
 - Search for "Microsoft Remote Desktop" and download the application.
+![Mac-emote-desktop](https://github.com/G-Code6/Remote-desktop/assets/163748328/808a4ad8-86e8-4fb4-b8be-e7b406b1898c)
+
+
 
 </p>
 <p>
