@@ -65,9 +65,13 @@
 
 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-# Remote-desktop
-Remote desktop with Microsoft Azure 
+
+- Open Microsoft Remote Desktop.
+- Click on "Add Desktop" (+ icon) in the top-left corner.
+- Enter the public IP address of your Azure VM in the "PC Name" field.
+- Specify a friendly name for the connection (optional).
+- Click "Add".
+
+
+
+ 
