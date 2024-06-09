@@ -18,6 +18,10 @@
 - Windows 10 / MacOs </b> 
 
 
+
+<h3>Installation Steps:<h3>
+
+
 <h3>1. Create an Azure Account:</h3> 
 
 - If you don't already have one, sign up for Microsoft Azure and create an account.
