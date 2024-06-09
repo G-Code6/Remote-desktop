@@ -15,7 +15,7 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10/MacOs </b> 
+- Windows 10 / MacOs </b> 
 
 
 <h3>1. Create an Azure Account:</h3> 
