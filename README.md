@@ -5,6 +5,7 @@
 <h1> Creating a virtual machine (VM) with Microsoft Azure
 & Remote Desktop with Windows / MacOS</h1>
 
+<h4> This tutorial shows how to create a Virtual Machine with Microsoft Azure and Accessing it via Remote Desktop.<h4>
 
 
 
